@@ -1,0 +1,9 @@
+#fondro{
+	background: url("../images/fondooo.jpg");
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	height: 1900px;
+	color: white; 
+
+}
